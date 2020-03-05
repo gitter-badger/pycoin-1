@@ -5,6 +5,44 @@
 pycoin -- Python Cryptocoin Utilities
 =====================================
 
+TODO
+====
+
+- [ ] Code Lint
+  - [ ] pylint
+  - [ ] pycodestyle (pep8)
+  - [ ] mypy 
+  - [ ] pydocstyle (pep257)
+
+- [ ] Commit/PR Format Linter
+  
+- [ ] CI Pipeline
+  - [ ] Tox
+  - [ ] Travis
+
+- [ ] Code Coverage
+  - [ ] tox-coverage
+
+- [ ] Test Analysis/Code Mutation
+  - [ ] mutpy
+
+- [ ] Automated Versioning
+  - [ ] versioneer
+  
+- [ ] Documentation Generation
+  - [ ] RTD
+  - [ ] CHANGELOG Generation
+    - [ ] gitchangelog
+  - [ ] Per Version
+  
+- [ ] Automated Dependancy Management
+  - [ ] dependabot
+  
+- [ ] Automated Deployment
+  - [ ] Travis
+
+- [ ] devenv setup
+
 The pycoin library implements many utilities useful when dealing with bitcoin and some bitcoin-like
 alt-coins. It has been tested with Python 2.7, 3.6 and 3.7.
 
