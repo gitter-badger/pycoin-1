@@ -16,12 +16,12 @@ TODO
 
 - [ ] Commit/PR Format Linter
   
-- [ ] CI Pipeline
-  - [ ] Tox
-  - [ ] Travis
+- [x] CI Pipeline
+  - [x] Tox
+  - [x] Travis
 
-- [ ] Code Coverage
-  - [ ] tox-coverage
+- [x] Code Coverage
+  - [x] tox-coverage
 
 - [ ] Test Analysis/Code Mutation
   - [ ] mutpy
